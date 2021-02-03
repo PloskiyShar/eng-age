@@ -1,8 +1,10 @@
+import Layout from "./hoc/Layout/Layout";
+
 function App() {
   return (
-    <div className="App">
-     Ру
-    </div>
+    <Layout>
+      
+    </Layout>
   );
 }
 
